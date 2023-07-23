@@ -13,7 +13,19 @@ function Data() {
     Main();
   }, []);
 
-  return <h1>{transactions[0]?.category}</h1>;
+  return (
+    <div>
+      {transactions.map((transactions) => (
+        <div key={transactions.id} style={{ border: "3px solid black" }}>
+          <div>{transactions?.id}</div>
+          <div>{transactions?.category}</div>
+          <div>{transactions?.date}</div>
+          <div>{transactions?.description}</div>
+          <div>{transactions?.amount}</div>
+        </div>
+      ))}
+    </div>
+  );
 }
 
 export default Data;
