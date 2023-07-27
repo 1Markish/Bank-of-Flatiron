@@ -12,8 +12,8 @@ function Form() {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    axios
-      .post("http://localhost:3000/transactions", {formData})
+    axios //axios acts similar to fetch
+      .post("http://localhost:3000/transactions", {formData}) //Data is posted to the json server
       .then((res) => console.log(res))
       .catch ((error) => console.log(error))
   }

@@ -7,7 +7,7 @@ function Data() {
   const [transactions, setTransactions] = useState([]);
 
   async function Main() {
-    const { data } = await axios.get("http://localhost:3000/transactions");
+    const { data } = await axios.get("http://localhost:3000/transactions"); //Data is fetch from the json-server
     setTransactions(data);
   }
 
