@@ -97,7 +97,192 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 17
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 18
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 19
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 20
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 21
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 22
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 23
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 24
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 25
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 26
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 27
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 28
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 29
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 30
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 31
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 32
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 33
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 34
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 35
+    },
+    {
+      "formData": {
+        "category": "Travel",
+        "date": "2019-09-23",
+        "description": " Travelled to Dubai",
+        "amount": "45000"
+      },
+      "id": 36
     }
   ]
- }
- 
+}

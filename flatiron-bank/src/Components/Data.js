@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Trans from "./Trans";
+import Trans2 from "./Trans";
 
 function Data() {
   const [transactions, setTransactions] = useState([]);
@@ -26,6 +27,8 @@ function Data() {
           amount={transactions.amount}
         />
       ))}
+
+      <Trans2 />
     </div>
   );
 }
